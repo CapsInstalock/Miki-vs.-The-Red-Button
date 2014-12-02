@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 0c3d9efbccc444493994532982a1e68e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MIKI v4_0
+    21300002: MIKI v4_1
+    21300004: MIKI v4_2
+    21300006: MIKI v4_3
+    21300008: MIKI v4_4
+    21300010: MIKI v4_5
+    21300012: MIKI v4_6
+    21300014: MIKI v4_7
+    21300016: MIKI v4_8
+    21300018: MIKI v4_9
+    21300020: MIKI v4_10
+    21300022: MIKI v4_11
+    21300024: MIKI v4_12
+    21300026: MIKI v4_13
+    21300028: MIKI v4_14
+    21300030: MIKI v4_15
+    21300032: MIKI v4_16
+    21300034: MIKI v4_17
+    21300036: MIKI v4_18
+    21300038: MIKI v4_19
+    21300040: MIKI v4_20
+    21300042: MIKI v4_21
+    21300044: MIKI v4_22
+    21300046: MIKI v4_23
+    21300048: MIKI v4_24
+    21300050: MIKI v4_25
+    21300052: MIKI v4_26
+    21300054: MIKI v4_27
+    21300056: MIKI v4_28
+    21300058: MIKI v4_29
+    21300060: MIKI v4_30
+    21300062: MIKI v4_31
+    21300064: MIKI v4_32
+    21300066: MIKI v4_33
+    21300068: MIKI v4_34
+    21300070: MIKI v4_35
+    21300072: MIKI v4_36
+    21300074: MIKI v4_37
+    21300076: MIKI v4_38
+    21300078: MIKI v4_39
+    21300080: MIKI v4_40
+    21300082: MIKI v4_41
+    21300084: MIKI v4_42
+    21300086: MIKI v4_43
+    21300088: MIKI v4_44
+    21300090: MIKI v4_45
+    21300092: MIKI v4_46
+    21300094: MIKI v4_47
+    21300096: MIKI v4_48
+    21300098: MIKI v4_49
+    21300100: MIKI v4_50
+    21300102: MIKI v4_51
+    21300104: MIKI v4_52
+    21300106: MIKI v4_53
+    21300108: MIKI v4_54
+    21300110: MIKI v4_55
+    21300112: MIKI v4_56
+    21300114: MIKI v4_57
+    21300116: MIKI v4_58
+    21300118: MIKI v4_59
+    21300120: MIKI v4_60
+    21300122: MIKI v4_61
+    21300124: MIKI v4_62
+    21300126: MIKI v4_63
+    21300128: MIKI v4_64
+    21300130: MIKI v4_65
+    21300132: MIKI v4_66
+    21300134: MIKI v4_67
+    21300136: MIKI v4_68
+    21300138: MIKI v4_69
+    21300140: MIKI v4_70
+    21300142: MIKI v4_71
+    21300144: MIKI v4_72
+    21300146: MIKI v4_73
+    21300148: MIKI v4_74
+    21300150: MIKI v4_75
+    21300152: MIKI v4_76
+    21300154: MIKI v4_77
+    21300156: MIKI v4_78
+    21300158: MIKI v4_79
+    21300160: MIKI v4_80
+    21300162: MIKI v4_81
+    21300164: MIKI v4_82
+    21300166: MIKI v4_83
+    21300168: MIKI v4_84
+    21300170: MIKI v4_85
+    21300172: MIKI v4_86
+    21300174: MIKI v4_87
+    21300176: MIKI v4_88
+    21300178: MIKI v4_89
+    21300180: MIKI v4_90
+    21300182: MIKI v4_91
+    21300184: MIKI v4_92
+    21300186: MIKI v4_93
+    21300188: MIKI v4_94
+    21300190: MIKI v4_95
+    21300192: MIKI v4_96
+    21300194: MIKI v4_97
+    21300196: MIKI v4_98
+    21300198: MIKI v4_99
+    21300200: MIKI v4_100
+    21300202: MIKI v4_101
+    21300204: MIKI v4_102
+    21300206: MIKI v4_103
+    21300208: MIKI v4_104
+    21300210: MIKI v4_105
+    21300212: MIKI v4_106
+    21300214: MIKI v4_107
+    21300216: MIKI v4_108
+    21300218: MIKI v4_109
+    21300220: MIKI v4_110
+    21300222: MIKI v4_111
+    21300224: MIKI v4_112
+    21300226: MIKI v4_113
+    21300228: MIKI v4_114
+    21300230: MIKI v4_115
+    21300232: MIKI v4_116
+    21300234: MIKI v4_117
+    21300236: MIKI v4_118
+    21300238: MIKI v4_119
+    21300240: MIKI v4_120
+    21300242: MIKI v4_121
+    21300244: MIKI v4_122
+    21300246: MIKI v4_123
+    21300248: MIKI v4_124
+    21300250: MIKI v4_125
+    21300252: MIKI v4_126
+    21300254: MIKI v4_127
+    21300256: MIKI v4_128
+    21300258: MIKI v4_129
+    21300260: MIKI v4_130
+    21300262: MIKI v4_131
+    21300264: MIKI v4_132
+    21300266: MIKI v4_133
+    21300268: MIKI v4_134
+    21300270: MIKI v4_135
+    21300272: MIKI v4_136
+    21300274: MIKI v4_137
+    21300276: MIKI v4_138
+    21300278: MIKI v4_139
+    21300280: MIKI v4_140
+    21300282: MIKI v4_141
+    21300284: MIKI v4_142
+    21300286: MIKI v4_143
+    21300288: MIKI v4_144
+    21300290: MIKI v4_145
+    21300292: MIKI v4_146
+    21300294: MIKI v4_147
+    21300296: MIKI v4_148
+    21300298: MIKI v4_149
+    21300300: MIKI v4_150
+    21300302: MIKI v4_151
+    21300304: MIKI v4_152
+    21300306: MIKI v4_153
+    21300308: MIKI v4_154
+    21300310: MIKI v4_155
+    21300312: MIKI v4_156
+    21300314: MIKI v4_157
+    21300316: MIKI v4_158
+    21300318: MIKI v4_159
+    21300320: MIKI v4_160
+    21300322: MIKI v4_161
+    21300324: MIKI v4_162
+    21300326: MIKI v4_163
+    21300328: MIKI v4_164
+    21300330: MIKI v4_165
+    21300332: MIKI v4_166
+    21300334: MIKI v4_167
+    21300336: MIKI v4_168
+    21300338: MIKI v4_169
+    21300340: MIKI v4_170
+    21300342: MIKI v4_171
+    21300344: MIKI v4_172
+    21300346: MIKI v4_173
+    21300348: MIKI v4_174
+    21300350: MIKI v4_175
+    21300352: MIKI v4_176
+    21300354: MIKI v4_177
+    21300356: MIKI v4_178
+    21300358: MIKI v4_179
+    21300360: MIKI v4_180
+    21300362: MIKI v4_181
+    21300364: MIKI v4_182
+    21300366: MIKI v4_183
+    21300368: MIKI v4_184
+    21300370: MIKI v4_185
+    21300372: MIKI v4_186
+    21300374: MIKI v4_187
+    21300376: MIKI v4_188
+    21300378: MIKI v4_189
+    21300380: MIKI v4_190
+    21300382: MIKI v4_191
+    21300384: MIKI v4_192
+    21300386: MIKI v4_193
+    21300388: MIKI v4_194
+    21300390: MIKI v4_195
+    21300392: MIKI v4_196
+    21300394: MIKI v4_197
+    21300396: MIKI v4_198
+    21300398: MIKI v4_199
+    21300400: MIKI v4_200
+    21300402: MIKI v4_201
+    21300404: MIKI v4_202
+    21300406: MIKI v4_203
+    21300408: MIKI v4_204
+    21300410: MIKI v4_205
+    21300412: MIKI v4_206
+    21300414: MIKI v4_207
+    21300416: MIKI v4_208
+    21300418: MIKI v4_209
+    21300420: MIKI v4_210
+    21300422: MIKI v4_211
+    21300424: MIKI v4_212
+    21300426: MIKI v4_213
+    21300428: MIKI v4_214
+    21300430: MIKI v4_215
+    21300432: MIKI v4_216
+    21300434: MIKI v4_217
+    21300436: MIKI v4_218
+    21300438: MIKI v4_219
+    21300440: MIKI v4_220
+    21300442: MIKI v4_221
+    21300444: MIKI v4_222
+    21300446: MIKI v4_223
+    21300448: MIKI v4_224
+    21300450: MIKI v4_225
+    21300452: MIKI v4_226
+    21300454: MIKI v4_227
+    21300456: MIKI v4_228
+    21300458: MIKI v4_229
+    21300460: MIKI v4_230
+    21300462: MIKI v4_231
+    21300464: MIKI v4_232
+    21300466: MIKI v4_233
+    21300468: MIKI v4_234
+    21300470: MIKI v4_235
+    21300472: MIKI v4_236
+    21300474: MIKI v4_237
+    21300476: MIKI v4_238
+    21300478: MIKI v4_239
+    21300480: MIKI v4_240
+    21300482: MIKI v4_241
+    21300484: MIKI v4_242
+    21300486: MIKI v4_243
+    21300488: MIKI v4_244
+    21300490: MIKI v4_245
+    21300492: MIKI v4_246
+    21300494: MIKI v4_247
+    21300496: MIKI v4_248
+    21300498: MIKI v4_249
+    21300500: MIKI v4_250
+    21300502: MIKI v4_251
+    21300504: MIKI v4_252
+    21300506: MIKI v4_253
+    21300508: MIKI v4_254
+    21300510: MIKI v4_255
+    21300512: MIKI v4_256
+    21300514: MIKI v4_257
+    21300516: MIKI v4_258
+    21300518: MIKI v4_259
+    21300520: MIKI v4_260
+    21300522: MIKI v4_261
+    21300524: MIKI v4_262
+    21300526: MIKI v4_263
+    21300528: MIKI v4_264
+    21300530: MIKI v4_265
+    21300532: MIKI v4_266
+    21300534: MIKI v4_267
+    21300536: MIKI v4_268
+    21300538: MIKI v4_269
+    21300540: MIKI v4_270
+    21300542: MIKI v4_271
+    21300544: MIKI v4_272
+    21300546: MIKI v4_273
+    21300548: MIKI v4_274
+    21300550: MIKI v4_275
+    21300552: MIKI v4_276
+    21300554: MIKI v4_277
+    21300556: MIKI v4_278
+    21300558: MIKI v4_279
+    21300560: MIKI v4_280
+    21300562: MIKI v4_281
+    21300564: MIKI v4_282
+    21300566: MIKI v4_283
+    21300568: MIKI v4_284
+    21300570: MIKI v4_285
+    21300572: MIKI v4_286
+    21300574: MIKI v4_287
+    21300576: MIKI v4_288
+    21300578: MIKI v4_289
+    21300580: MIKI v4_290
+    21300582: MIKI v4_291
+    21300584: MIKI v4_292
+    21300586: MIKI v4_293
+    21300588: MIKI v4_294
+    21300590: MIKI v4_295
+    21300592: MIKI v4_296
+    21300594: MIKI v4_297
+    21300596: MIKI v4_298
+    21300598: MIKI v4_299
+    21300600: MIKI v4_300
+    21300602: MIKI v4_301
+    21300604: MIKI v4_302
+    21300606: MIKI v4_303
+    21300608: MIKI v4_304
+    21300610: MIKI v4_305
+    21300612: MIKI v4_306
+    21300614: MIKI v4_307
+    21300616: MIKI v4_308
+    21300618: MIKI v4_309
+    21300620: MIKI v4_310
+    21300622: MIKI v4_311
+    21300624: MIKI v4_312
+    21300626: MIKI v4_313
+    21300628: MIKI v4_314
+    21300630: MIKI v4_315
+    21300632: MIKI v4_316
+    21300634: MIKI v4_317
+    21300636: MIKI v4_318
+    21300638: MIKI v4_319
+    21300640: MIKI v4_320
+    21300642: MIKI v4_321
+    21300644: MIKI v4_322
+    21300646: MIKI v4_323
+    21300648: MIKI v4_324
+    21300650: MIKI v4_325
+    21300652: MIKI v4_326
+    21300654: MIKI v4_327
+    21300656: MIKI v4_328
+    21300658: MIKI v4_329
+    21300660: MIKI v4_330
+    21300662: MIKI v4_331
+    21300664: MIKI v4_332
+    21300666: MIKI v4_333
+    21300668: MIKI v4_334
+    21300670: MIKI v4_335
+    21300672: MIKI v4_336
+    21300674: MIKI v4_337
+    21300676: MIKI v4_338
+    21300678: MIKI v4_339
+    21300680: MIKI v4_340
+    21300682: MIKI v4_341
+    21300684: MIKI v4_342
+    21300686: MIKI v4_343
+    21300688: MIKI v4_344
+    21300690: MIKI v4_345
+    21300692: MIKI v4_346
+    21300694: MIKI v4_347
+    21300696: MIKI v4_348
+    21300698: MIKI v4_349
+    21300700: MIKI v4_350
+    21300702: MIKI v4_351
+    21300704: MIKI v4_352
+    21300706: MIKI v4_353
+    21300708: MIKI v4_354
+    21300710: MIKI v4_355
+    21300712: MIKI v4_356
+    21300714: MIKI v4_357
+    21300716: MIKI v4_358
+    21300718: MIKI v4_359
+    21300720: MIKI v4_360
+    21300722: MIKI v4_361
+    21300724: MIKI v4_362
+    21300726: MIKI v4_363
+    21300728: MIKI v4_364
+    21300730: MIKI v4_365
+    21300732: MIKI v4_366
+    21300734: MIKI v4_367
+    21300736: MIKI v4_368
+    21300738: MIKI v4_369
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MIKI v4_0
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 941
+        width: 574
+        height: 561
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_1
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 937
+        width: 479
+        height: 565
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_2
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 945
+        width: 279
+        height: 600
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_3
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 945
+        width: 476
+        height: 565
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_5
+      rect:
+        serializedVersion: 2
+        x: 751.369995
+        y: 155
+        width: 574
+        height: 561
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_6
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 145
+        width: 479
+        height: 565
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_8
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 133
+        width: 279
+        height: 600
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MIKI v4_9
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 152
+        width: 476
+        height: 549
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
